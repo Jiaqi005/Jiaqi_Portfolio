@@ -1,0 +1,4 @@
+Original Teachable Machine image model supplied in Jiaqi Li's sketch:
+https://teachablemachine.withgoogle.com/models/P8_RJIyHY/
+Labels checked 2026-11-14: Fist, Open Hand, Peace.
+Local files, when present, are copies of the same export, not a newly trained model.
